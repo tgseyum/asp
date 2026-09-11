@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\0_Fall2026\\SODV3201-0\\Classexampleworkspace\\studentmvc\\studentmvc.csproj": {}
+    "D:\\0_Fall2026\\SODV3201-0\\Classexampleworkspace\\studentmvc\\studentmvc.csproj": {}
   },
   "projects": {
-    "d:\\0_Fall2026\\SODV3201-0\\Classexampleworkspace\\studentmvc\\studentmvc.csproj": {
+    "D:\\0_Fall2026\\SODV3201-0\\Classexampleworkspace\\studentmvc\\studentmvc.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\0_Fall2026\\SODV3201-0\\Classexampleworkspace\\studentmvc\\studentmvc.csproj",
+        "projectUniqueName": "D:\\0_Fall2026\\SODV3201-0\\Classexampleworkspace\\studentmvc\\studentmvc.csproj",
         "projectName": "studentmvc",
-        "projectPath": "d:\\0_Fall2026\\SODV3201-0\\Classexampleworkspace\\studentmvc\\studentmvc.csproj",
+        "projectPath": "D:\\0_Fall2026\\SODV3201-0\\Classexampleworkspace\\studentmvc\\studentmvc.csproj",
         "packagesPath": "C:\\Users\\tbeshe\\.nuget\\packages\\",
-        "outputPath": "d:\\0_Fall2026\\SODV3201-0\\Classexampleworkspace\\studentmvc\\obj\\",
+        "outputPath": "D:\\0_Fall2026\\SODV3201-0\\Classexampleworkspace\\studentmvc\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\tbeshe\\AppData\\Roaming\\NuGet\\NuGet.Config"

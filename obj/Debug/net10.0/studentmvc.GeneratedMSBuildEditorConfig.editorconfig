@@ -11,41 +11,53 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = studentmvc
 build_property.RootNamespace = studentmvc
-build_property.ProjectDir = d:\0_Fall2026\SODV3201-0\Classexampleworkspace\studentmvc\
+build_property.ProjectDir = D:\0_Fall2026\SODV3201-0\Classexampleworkspace\studentmvc\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 9.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = d:\0_Fall2026\SODV3201-0\Classexampleworkspace\studentmvc
+build_property.MSBuildProjectDirectory = D:\0_Fall2026\SODV3201-0\Classexampleworkspace\studentmvc
 build_property._RazorSourceGeneratorDebug = 
 build_property.EffectiveAnalysisLevelStyle = 10.0
 build_property.EnableCodeStyleSeverity = 
 
-[d:/0_Fall2026/SODV3201-0/Classexampleworkspace/studentmvc/Views/Home/Index.cshtml]
+[D:/0_Fall2026/SODV3201-0/Classexampleworkspace/studentmvc/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[d:/0_Fall2026/SODV3201-0/Classexampleworkspace/studentmvc/Views/Home/Privacy.cshtml]
+[D:/0_Fall2026/SODV3201-0/Classexampleworkspace/studentmvc/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[d:/0_Fall2026/SODV3201-0/Classexampleworkspace/studentmvc/Views/Shared/Error.cshtml]
+[D:/0_Fall2026/SODV3201-0/Classexampleworkspace/studentmvc/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[d:/0_Fall2026/SODV3201-0/Classexampleworkspace/studentmvc/Views/Shared/_ValidationScriptsPartial.cshtml]
+[D:/0_Fall2026/SODV3201-0/Classexampleworkspace/studentmvc/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[d:/0_Fall2026/SODV3201-0/Classexampleworkspace/studentmvc/Views/_ViewImports.cshtml]
+[D:/0_Fall2026/SODV3201-0/Classexampleworkspace/studentmvc/Views/Student/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudFxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/0_Fall2026/SODV3201-0/Classexampleworkspace/studentmvc/Views/Student/index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudFxpbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/0_Fall2026/SODV3201-0/Classexampleworkspace/studentmvc/Views/Welcome/index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV2VsY29tZVxpbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/0_Fall2026/SODV3201-0/Classexampleworkspace/studentmvc/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[d:/0_Fall2026/SODV3201-0/Classexampleworkspace/studentmvc/Views/_ViewStart.cshtml]
+[D:/0_Fall2026/SODV3201-0/Classexampleworkspace/studentmvc/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[d:/0_Fall2026/SODV3201-0/Classexampleworkspace/studentmvc/Views/Shared/_Layout.cshtml]
+[D:/0_Fall2026/SODV3201-0/Classexampleworkspace/studentmvc/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-kgkz7rqoef
