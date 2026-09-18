@@ -22,7 +22,6 @@ D:\0_Fall2026\SODV3201-0\Classexampleworkspace\studentmvc\obj\Debug\net10.0\rjsm
 D:\0_Fall2026\SODV3201-0\Classexampleworkspace\studentmvc\obj\Debug\net10.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
 D:\0_Fall2026\SODV3201-0\Classexampleworkspace\studentmvc\obj\Debug\net10.0\scopedcss\bundle\studentmvc.styles.css
 D:\0_Fall2026\SODV3201-0\Classexampleworkspace\studentmvc\obj\Debug\net10.0\scopedcss\projectbundle\studentmvc.bundle.scp.css
-D:\0_Fall2026\SODV3201-0\Classexampleworkspace\studentmvc\obj\Debug\net10.0\compressed\ynjpxty8pk-{0}-b9sayid5wm-b9sayid5wm.gz
 D:\0_Fall2026\SODV3201-0\Classexampleworkspace\studentmvc\obj\Debug\net10.0\compressed\ndwxlb0kmt-{0}-61n19gt1b8-61n19gt1b8.gz
 D:\0_Fall2026\SODV3201-0\Classexampleworkspace\studentmvc\obj\Debug\net10.0\compressed\oac2osngf4-{0}-xtxxf3hu2r-xtxxf3hu2r.gz
 D:\0_Fall2026\SODV3201-0\Classexampleworkspace\studentmvc\obj\Debug\net10.0\compressed\qvcrpcvy84-{0}-bqjiyaj88i-bqjiyaj88i.gz
@@ -96,3 +95,5 @@ D:\0_Fall2026\SODV3201-0\Classexampleworkspace\studentmvc\obj\Debug\net10.0\refi
 D:\0_Fall2026\SODV3201-0\Classexampleworkspace\studentmvc\obj\Debug\net10.0\studentmvc.pdb
 D:\0_Fall2026\SODV3201-0\Classexampleworkspace\studentmvc\obj\Debug\net10.0\studentmvc.genruntimeconfig.cache
 D:\0_Fall2026\SODV3201-0\Classexampleworkspace\studentmvc\obj\Debug\net10.0\ref\studentmvc.dll
+D:\0_Fall2026\SODV3201-0\Classexampleworkspace\studentmvc\obj\Debug\net10.0\compressed\ynjpxty8pk-{0}-8rvbuzrabx-8rvbuzrabx.gz
+D:\0_Fall2026\SODV3201-0\Classexampleworkspace\studentmvc\obj\Debug\net10.0\compressed\lcj0zb9f3c-{0}-5ipweew5fc-5ipweew5fc.gz

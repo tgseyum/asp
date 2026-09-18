@@ -17,6 +17,12 @@ public class WelcomeController : Controller
         return "Hello again";
     }
 
+    // public IActionResult Index()
+    // {
+    //     return View();
+    // }
+
+    //GET: /Welcome/Greetingbyname?name=Mary&numtimes=4
      public string Greetingbyname( string name , int numtimes = 1)
     {
         return  HtmlEncoder.Default.Encode( $"Hello,{name} again, you access this page {numtimes}");
