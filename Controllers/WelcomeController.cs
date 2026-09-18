@@ -7,20 +7,20 @@ namespace studentmvc.Controllers;
 
 public class WelcomeController : Controller
 {
-    public string Index()
-    {
-        return "This is my main or default action...";
-    }
+    // public string Index()
+    // {
+    //     return "This is my main or default action...";
+    // }
 
      public string Greeting()
     {
         return "Hello again";
     }
 
-    // public IActionResult Index()
-    // {
-    //     return View();
-    // }
+    public IActionResult Index()
+    {
+        return View();
+    }
 
     //GET: /Welcome/Greetingbyname?name=Mary&numtimes=4
      public string Greetingbyname( string name , int numtimes = 1)
